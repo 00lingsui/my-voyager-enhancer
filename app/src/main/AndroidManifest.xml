@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:label="Voyager AI Enhancer"
+        android:supportsRtl="true">
+
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="AI 对话网页增强（文件夹管理与快捷Prompt侧边栏注入）" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="82" />
+    </application>
+
+</manifest>
